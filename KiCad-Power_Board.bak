@@ -48,25 +48,25 @@ $EndDescr
 $Sheet
 S 1600 1500 1200 450 
 U 57E68096
-F0 "pwr_module" 60
+F0 "pwr_module2" 60
 F1 "pwr_module.sch" 60
 $EndSheet
 $Sheet
 S 1600 750  1200 450 
 U 57E68A98
-F0 "pwr_module" 60
+F0 "pwr_module1" 60
 F1 "pwr_module.sch" 60
 $EndSheet
 $Sheet
 S 1600 3000 1200 450 
 U 57E68A9A
-F0 "pwr_module" 60
+F0 "pwr_module4" 60
 F1 "pwr_module.sch" 60
 $EndSheet
 $Sheet
 S 1600 2250 1200 450 
 U 57E68A9C
-F0 "pwr_module" 60
+F0 "pwr_module3" 60
 F1 "pwr_module.sch" 60
 $EndSheet
 $EndSCHEMATC
